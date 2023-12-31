@@ -1,1 +1,1 @@
-# Internship_majorproject
+#Water Quality Prediction
